@@ -14,9 +14,9 @@ Latihan
 
 
 2 Lakukan join tabel Matakuliah dan Dosen
-![tg2](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/a742c559-a51e-43ca-ad5c-0e5c5e50a5d0)
+![tg2](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/1ee85568-d73c-4571-8797-02df3bd907a2)
 ```
-Pada kode ini hasilnya empty karena kedua tabel tidak saling ber relasi
+Pada kode ini hasilnya tabel dosen null karena kedua tabel tidak saling ber relasi
 ```
 
 
