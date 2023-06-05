@@ -7,19 +7,19 @@ Latihan
 3 Lakukan join table JadwalMengajar, Dosen, dan Matakuluan
 4 Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
 ```
-# Tabel Mahasiswa
+### Tabel Mahasiswa
 ![mahasiswa](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/ba1ebd0c-2644-4924-8814-bd297b0e3546)
 
-# Tabel Dosen
+### Tabel Dosen
 ![dosen](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/e73130cc-78b6-4b2d-ac9b-8c3c08590d13)
 
-# Tabel KrsMahasiswa
+### Tabel KrsMahasiswa
 ![krs](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/9ada5183-534f-4f6e-8f5f-0cc3e7a98058)
 
-# Tabel JadwalMengajar
+### Tabel JadwalMengajar
 ![jadwal](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/56c3847c-cc7a-4372-9fa1-6957ebb49c89)
 
-# Tabel Matakuliah
+### Tabel Matakuliah
 ![matkul](https://github.com/DimasF3009/Basis-Data-Praktikum-5/assets/115356128/798ba69c-0376-4049-a8c8-b2d7c393faf4)
 
 # LATIHAN
